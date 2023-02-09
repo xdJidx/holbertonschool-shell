@@ -9,3 +9,5 @@ Le fichier 2 permet de retourner au dossier principal avec la commande cd
 Le fichier 3 permet d'afficher une liste plus développée avec la commande ls -l
 
 Le fichier 4 permet d'afficher la liste des fichiers ainsi que les cachés grâce à la commande ls -a
+
+Le fichier 5 permet d'afficher un format long, le user et l'ID et les fichiers cachés ls -lna

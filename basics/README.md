@@ -5,3 +5,6 @@ Le fichier 0 est un script permettant d'afficher le chemin des fichiers grâce �
 Le fichier 1 est un script permettant de lister les fichiers grâce à la commande ls
 
 Le fichier 2 permet de retourner au dossier principal avec la commande cd
+
+Le fichier 3 permt d'affichier une liste plus développée avec la commande ls -l
+

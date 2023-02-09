@@ -11,3 +11,5 @@ Le fichier 3 permet d'afficher une liste plus développée avec la commande ls -
 Le fichier 4 permet d'afficher la liste des fichiers ainsi que les cachés grâce à la commande ls -a
 
 Le fichier 5 permet d'afficher un format long, le user et l'ID et les fichiers cachés ls -lna
+
+Le fichier 6 permet de créer un dossier nommé my_first_directory dans le dossier tmp avec la commande mkdir

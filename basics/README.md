@@ -6,5 +6,6 @@ Le fichier 1 est un script permettant de lister les fichiers grâce à la comman
 
 Le fichier 2 permet de retourner au dossier principal avec la commande cd
 
-Le fichier 3 permt d'affichier une liste plus développée avec la commande ls -l
+Le fichier 3 permet d'afficher une liste plus développée avec la commande ls -l
 
+Le fichier 4 permet d'afficher la liste des fichiers ainsi que les cachés grâce à la commande ls -a

@@ -31,3 +31,16 @@ chmod +114 hello
 7. Everybody!
 #!/bin/bash
 chmod a+x hello
+
+8. James Bond
+#!/bin/bash
+chmod 007 hello
+
+9. John Doe
+#!/bin/bash
+chmod 753 hello
+
+10.Look in the mirror
+#!/bin/bash
+chmod 354 olleh hello
+

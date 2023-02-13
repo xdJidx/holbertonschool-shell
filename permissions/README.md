@@ -22,4 +22,8 @@ touch hello
 
 5. Execute
 #!/bin/bash
-chmod 100 hello
+chmod +100 hello
+
+6.Multiple permissions
+#!/bin/bash
+chmod +114 hello

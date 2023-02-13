@@ -16,4 +16,7 @@ groups
 #!/bin/bash
 chown betty: hello
 
+4. Empty!
+#!/bin/bash
+touch hello
 

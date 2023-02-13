@@ -8,3 +8,7 @@ su betty
 #!/bin/bash
 whoami
 
+2. Groups
+#!/bin/bash
+id
+

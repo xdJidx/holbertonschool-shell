@@ -4,3 +4,7 @@ Shell, permissions
 #!/bin/bash
 su betty
 
+1. Who am I
+#!/bin/bash
+whoami
+

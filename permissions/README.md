@@ -27,3 +27,7 @@ chmod +100 hello
 6.Multiple permissions
 #!/bin/bash
 chmod +114 hello
+
+7. Everybody!
+#!/bin/bash
+chmod a+x hello

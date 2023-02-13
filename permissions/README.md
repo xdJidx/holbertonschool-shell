@@ -44,3 +44,14 @@ chmod 753 hello
 #!/bin/bash
 chmod 354 olleh hello
 
+11.Directories
+#!/bin/bash
+chmod -R a+x */
+
+12. More directories
+#!/bin/bash
+mkdir -m 751 my_dir
+
+
+
+

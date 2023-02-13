@@ -20,3 +20,6 @@ chown betty: hello
 #!/bin/bash
 touch hello
 
+5. Execute
+#!/bin/bash
+chmod 100 hello

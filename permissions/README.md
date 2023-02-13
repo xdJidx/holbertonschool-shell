@@ -12,4 +12,8 @@ whoami
 #!/bin/bash
 groups
 
+3. New owner
+#!/bin/bash
+chown betty: hello
+
 

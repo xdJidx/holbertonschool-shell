@@ -55,5 +55,10 @@ mkdir -m 751 my_dir
 13. Change group
 chgrp school hello
 
+14. Owner and group
+#!/bin/bash
 
+15.Symbolic links
+#!/bin/bash
+chown -h vincent:staff _hello
 

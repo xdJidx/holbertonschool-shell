@@ -10,5 +10,6 @@ whoami
 
 2. Groups
 #!/bin/bash
-id
+groups
+
 

@@ -52,6 +52,8 @@ chmod -R a+x */
 #!/bin/bash
 mkdir -m 751 my_dir
 
+13. Change group
+chgrp school hello
 
 
 

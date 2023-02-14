@@ -43,3 +43,15 @@ echo "Hello, World"
 Write a script that displays a confused smiley "(Ôo)'.
 #bin/bash
 echo "\"(Ôo)'
+
+2. Let's display a file
+Display the content of the /etc/passwd file.
+#bin/bash
+cat /etc/passwd
+
+
+
+
+
+
+

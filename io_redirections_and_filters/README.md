@@ -59,6 +59,14 @@ Display the last 10 lines of /etc/passwd
 #bin/bash
 tail -n 10 /etc/passwd
 
+5. I'd prefer the first ones actually
+Display the first 10 lines of /etc/passwd
+#bin/bash
+head -n 10 /etc/passwd
 
+6. Line #2
+Write a script that displays the third line of the file iacta.
+#!/bin/bash
+head -n 3 iacta | tail -n 1
 
 

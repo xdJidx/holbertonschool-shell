@@ -54,7 +54,10 @@ Display the content of /etc/passwd and /etc/hosts
 #bin/bash
 echo /etc/passwd /etc/hosts
 
-
+4. Last lines of a file
+Display the last 10 lines of /etc/passwd
+#bin/bash
+tail -n 10 /etc/passwd
 
 
 

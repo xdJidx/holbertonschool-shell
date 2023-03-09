@@ -1,6 +1,6 @@
-#Shell, permissions#
+# Shell, permissions
 
-##Quiz##
+## Quiz
 
 Question #0  
 Which command should I use for changing a file permission?  
@@ -37,7 +37,7 @@ What is the numerical value for the ----w---x permission?
 ```
 021
 ```
-##Task##  
+## Task  
 
 0. My name is Betty  
 Create a script that switches the current user to the user betty.
